@@ -224,3 +224,9 @@ nav .button-collapse i {
 .orngebutton:hover{
      background-color:#39c6d8 !important;
 }
+
+#sidenav-overlay {
+    position: fixed;
+    z-index: 996;
+    
+}
