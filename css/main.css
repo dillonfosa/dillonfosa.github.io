@@ -218,10 +218,9 @@ nav .button-collapse i {
 }
 
 .orngebutton{
-     background-color:#f9af0b;
+     background-color:#f9af0b !important;
 }
 
 .orngebutton:hover{
-     background-color: #39c6d8;
-    color: black !important;
+     background-color:#39c6d8 !important;
 }
